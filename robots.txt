@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maruGWMA.github.io/maru-sitemap/sitemap.xml
